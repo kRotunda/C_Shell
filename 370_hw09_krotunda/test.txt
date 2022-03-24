@@ -1,4 +1,0 @@
-STDERR: homer simpson is fat
-STDERR: he likes to say D'oh
-STDOUT: homer simpson is fat
-STDOUT: he likes to say D'oh
